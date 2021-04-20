@@ -9,7 +9,7 @@ import java.io.IOException;
 /**
  * Danbooru接口
  *
- * @author xf
+ * @author miyabi
  * @date 2021-03-31-13-30
  * @since 1.0
  **/

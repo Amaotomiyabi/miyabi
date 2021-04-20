@@ -6,7 +6,7 @@ import com.miyabi.reptile.util.JSONUtil;
 /**
  * danbooru
  *
- * @author xf
+ * @author miyabi
  * @date 2021-03-31-14-17
  * @since 1.0
  **/

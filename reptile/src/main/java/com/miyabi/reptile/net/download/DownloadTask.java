@@ -18,7 +18,7 @@ import java.util.concurrent.atomic.AtomicBoolean;
 /**
  * 下载任务
  *
- * @author xf
+ * @author miyabi
  * @date 2021-03-18-10-43
  * @since 1.0
  **/

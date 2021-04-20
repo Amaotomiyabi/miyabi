@@ -9,7 +9,7 @@ import java.util.concurrent.atomic.AtomicBoolean;
 /**
  * 实际下载工作者
  *
- * @author xf
+ * @author miyabi
  * @date 2021-03-17-13-05
  * @since 1.0
  **/

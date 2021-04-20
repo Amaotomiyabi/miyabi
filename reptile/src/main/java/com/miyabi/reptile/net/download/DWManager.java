@@ -8,7 +8,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * 下载任务管理者
  *
- * @author xf
+ * @author miyabi
  * @since 1.0
  **/
 
